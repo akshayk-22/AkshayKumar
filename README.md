@@ -21,7 +21,7 @@ to building full-stack applications and dashboards.
 ## 🚀 Featured Projects
 - **PayPilot** – Full-stack financial tracking application  
 - **FBI Hate Crime Analysis** – Statistical Learning Study of Hate Crime in the U.S. from 1993 - 2023
-- **LineupLogic** – Python-based personal finance tool
+- **LineupLogic** – An intelligent fantasy sports decision-support system
 - **FullStack Academy Capstone** – TBD
 
 ---
