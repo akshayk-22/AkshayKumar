@@ -20,9 +20,9 @@ to building full-stack applications and dashboards.
 
 ## 🚀 Featured Projects
 - **PayPilot** – Full-stack financial tracking application  
-- **Aircraft Storage Forecasting** – Data analytics capstone project (sanitized)
-- **Expense Tracker (CLI)** – Python-based personal finance tool
-- **Task Manager (CLI)** – Python task management system
+- **FBI Hate Crime Analysis** – Statistical Learning Study of Hate Crime in the U.S. from 1993 - 2023
+- **LineupLogic** – Python-based personal finance tool
+- **FullStack Academy Capstone** – TBD
 
 ---
 
